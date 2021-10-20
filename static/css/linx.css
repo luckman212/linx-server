@@ -1,7 +1,6 @@
 body {
-  background-color: #E8ECF0;
-  color: #556A7F;
-
+  background-color: #1f3258;
+  color: #000;
   font-family: Arial, Helvetica, sans-serif;
   font-size: 14px;
 }
@@ -20,7 +19,7 @@ body {
 
 #header a {
   text-decoration: none;
-  color: #556A7F;
+  color: #d8ebf9;
 }
 
 #navigation {
@@ -29,8 +28,8 @@ body {
 
 #navigation a {
   text-decoration: none;
-  border-bottom: 1px dotted #556A7F;
-  color: #556A7F;
+  border-bottom: 1px dotted #d8ebf9;
+  color: #d8ebf9;
 }
 
 #navigation a:hover {
@@ -99,7 +98,7 @@ body {
 
 #info a:hover {
   border-bottom: 1px dotted gray;
-  background-color: #E8ECF0;
+  background-color: #f3f3ff;
 }
 
 #info input[type=checkbox] {
@@ -132,7 +131,7 @@ body {
 
 .normal a:hover {
   color: black;
-  background-color: #E8ECF0;
+  background-color: #f3f3ff;
 }
 
 .normal ul {
